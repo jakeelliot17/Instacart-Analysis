@@ -1,4 +1,4 @@
-# PythonInstacart
+# Instacart Analysis
 
 **Overview**
 In Achievement 4, as part of CareerFoundry's Data Analyst program, I have analyzed Instacart Grocery data using Python. My objective was to learn the ins and outs of Python, writing scripts and creating visuals. The dataset I used was open-sourced from Instacart (see below for citation). The goal of the analysis was to glean insights through segmenting the customer base in order to maximize the marketing efforts.
