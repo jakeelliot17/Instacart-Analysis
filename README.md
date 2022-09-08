@@ -5,5 +5,4 @@ In Achievement 4, as part of CareerFoundry's Data Analyst program, I have analyz
 
 **Data Set**
 Citation (required in your final report): “The Instacart Online Grocery Shopping Dataset
-2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on
-<date>.
+2017”, Accessed from https://www.instacart.com/datasets/grocery-shopping-2017 on June 21, 2022.
